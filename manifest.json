@@ -5,7 +5,7 @@
     "devices/handlers": [
        "dutch_smart_meter" ,
        "kaku",
-       "omnik"
+       "omnik_inverter"
     ]
   }
 }
