@@ -1,6 +1,6 @@
 {
-  "name": "DSMR",
-  "description": "Features you need for your Dutch home.",
+  "name": "Dutch Package",
+  "description": "Adds features you need in your Dutch home.",
   "features": {
     "devices/handlers": [
        "dutch_smart_meter" ,
