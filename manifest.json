@@ -1,0 +1,10 @@
+{
+  "name": "DSMR",
+  "description": "Features you need for your Dutch home.",
+  "features": {
+    "devices/handlers": [
+       "dutch_smart_meter" ,
+       "kaku",
+       "omnik"
+    ]
+  }
